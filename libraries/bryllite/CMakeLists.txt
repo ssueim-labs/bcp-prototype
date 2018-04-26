@@ -9,8 +9,8 @@ set( source_files
 	string.hpp 
 	log.cpp 
 	log.hpp 
-	thread.hpp
-	thread.cpp
+#	thread.hpp
+#	thread.cpp
 	compat/time.cpp
 	compat/time.hpp
 )
