@@ -1,2 +1,0 @@
-/usr/bin/ar.exe qc ../../../libs/libbryllite.a  CMakeFiles/bryllite.dir/common.cpp.o CMakeFiles/bryllite.dir/string.cpp.o CMakeFiles/bryllite.dir/log.cpp.o CMakeFiles/bryllite.dir/thread.cpp.o CMakeFiles/bryllite.dir/compat/time.cpp.o
-/usr/bin/ranlib.exe ../../../libs/libbryllite.a
