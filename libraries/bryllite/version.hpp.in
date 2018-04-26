@@ -1,0 +1,14 @@
+/*
+ @File: version.hpp.in
+ @Desc: bryllite version header
+ @Author: okseok.kim@gmail.com
+ @CDate: 2018-04-24
+ @Update: 2018-04-24
+ @License: Bryllite Ltd. All rights reserved
+ */
+
+#define		VERSION_MAJOR	@VERSION_MAJOR@
+#define		VERSION_MINOR	@VERSION_MINOR@
+#define		VERSION_PATCH	@VERSION_PATCH@
+#define		VERSION			"@VERSION_MAJOR@.@VERSION_MINOR@.@VERSION_PATCH@"
+#define		VERSION_NUMBER	( ( @VERSION_MAJOR@ * 10000 ) + ( @VERSION_MINOR@ * 100 ) + @VERSION_PATCH@ )
